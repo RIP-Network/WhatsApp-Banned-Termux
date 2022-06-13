@@ -1,7 +1,7 @@
-# Facebook-hack
+# WhatsApp Banned
 ![Screenshot](Facebook.png)
 
-* Herramienta sencilla de hackeo
+* Herramienta sencilla de reportes funcional con termux 
 # instalacion
 * apt update && apt upgrade -y
 * apt install python
@@ -9,7 +9,5 @@
 * termux-setup-storage
 * git clone https://github.com/Fenrir-00/Facebook-hack
 * cd Facebook-hack
-* chmod +x facebook-hack.py
-* python3 facebook-hack.py
-# si tienes algun error escribeme al telegram @Ritorito1990
-
+* chmod +x banned.py
+* python3 banned.py
