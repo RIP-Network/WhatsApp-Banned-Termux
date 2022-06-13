@@ -7,7 +7,7 @@
 * apt install python
 * apt install git -y
 * termux-setup-storage
-* git clone https://github.com/Fenrir-00/Facebook-hack
-* cd Facebook-hack
+* git clone https://github.com/RIP-Network/whatsapp-banned-termux
+* cd whatsApp-banned-termux
 * chmod +x banned.py
 * python3 banned.py
