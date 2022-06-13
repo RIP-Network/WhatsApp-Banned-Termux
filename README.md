@@ -7,7 +7,7 @@
 * apt install python
 * apt install git -y
 * termux-setup-storage
-* git clone https://github.com/RIP-Network/whatsapp-banned-termux
+* git clone https://github.com/RIP-Network/Whatsapp-Banned-Termux
 * cd whatsApp-banned-termux
 * chmod +x banned.py
 * python3 banned.py
