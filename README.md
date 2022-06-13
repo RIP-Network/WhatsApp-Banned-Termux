@@ -1,5 +1,5 @@
 # ⚠️WhatsApp-Banned⚠️
-
+![Screenshot](test.png)
 
 * No me hago responsable de esta herramienta 
 # instalacion
