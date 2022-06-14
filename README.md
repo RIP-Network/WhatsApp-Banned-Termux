@@ -11,4 +11,5 @@
 * cd whatsapp-banned
 * chmod +x banned.py
 * python3 banned.py
+![Screenshot](test2.png)
 # Este programa a sido creado con propósitos educativos cualquier acto ilegal no me hago responsable
