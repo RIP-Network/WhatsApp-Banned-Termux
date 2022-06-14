@@ -8,7 +8,7 @@
 * pkg install git -y
 * termux-setup-storage
 * git clone https://github.com/RIP-Network/WhatsApp-Banned-Termux
-* cd whatsapp-banned
+* cd WhatsApp-Banned-Termux
 * chmod +x banned.py
 * python3 banned.py
 ![Screenshot](test2.png)
